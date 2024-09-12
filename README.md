@@ -1,2 +1,2 @@
 # Django Rest Framework Mini Project
-## This Project Handles Tasks
+## CRUD Operations for Tasks ( todos )
